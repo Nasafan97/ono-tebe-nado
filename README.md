@@ -1,1 +1,1 @@
-git@github.com:Nasafan97/ono-tebe-nado.git
+https://github.com/Nasafan97/ono-tebe-nado.git
